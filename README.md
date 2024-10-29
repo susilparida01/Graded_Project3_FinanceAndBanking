@@ -1,2 +1,2 @@
-# G1B6_Graded_Project3_Python_for_DS
-G1B6_Graded_Project3_Python_for_DS
+# Graded_Project3_FinanceAndBanking
+Graded_Project3_FinanceAndBanking: Web Development using Flask
